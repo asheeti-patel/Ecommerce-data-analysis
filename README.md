@@ -10,7 +10,7 @@ using Python and Plotly.
 
 ---
 
-## 📌 What this project covers
+# 📌 What this project covers
 
 - Monthly Sales Analysis
 - Sales by Category and Sub-Category
